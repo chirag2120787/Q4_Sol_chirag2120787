@@ -5,7 +5,7 @@
 */node_modules/*
 
 # Rust build directory
-*/target/
+target/
 
 .DS_Store
 
