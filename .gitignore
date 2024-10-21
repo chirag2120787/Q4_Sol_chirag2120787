@@ -1,0 +1,10 @@
+# Wallet Data 
+*wallet.json
+
+# Node Libraries
+*/node_modules/*
+
+# Rust build directory
+*/target/
+
+.DS_Store
